@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753672334475",
+    "project_id": "entreprisejobs-app",
+    "storage_bucket": "entreprisejobs-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753672334475:android:fc70576639395201afb88e",
+        "android_client_info": {
+          "package_name": "com.lightuponlight.entreprisejobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMB-Kn2_Jb86fy04Vpk36Jmv_0v_JUpck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
